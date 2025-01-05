@@ -9,6 +9,7 @@ Before starting, ensure you have the following:
 1. A clean installation of Garry's Mod (32-bit version, not 64-bit beta)
 
 2. Download these required files:
+   - [Bridge](https://github.com/NVIDIAGameWorks/bridge-remix)
    - [DXVK Remix](https://github.com/NVIDIAGameWorks/dxvk-remix)
    - [BlueAmulet's Patcher (apply_patch.py)](https://raw.githubusercontent.com/BlueAmulet/SourceRTXTweaks/main/applypatch.py)
    - [Launch Script](https://xenthio.github.io/stuff/launcher_workshop_fullscreen_new.bat)
@@ -16,7 +17,7 @@ Before starting, ensure you have the following:
 
 3. [Python](https://www.python.org/downloads/) installed on your system
 
-## Step 1: Prepare Your GMod Installation
+## Step 1: Prepare Your Gmod Installation
 
 1. Open Steam and locate Garry's Mod
 2. Ensure the game is NOT set to the 64-bit beta (use 32-bit version)
@@ -57,8 +58,8 @@ If you have Portal with RTX installed:
 1. Navigate to Portal RTX → Manage → Browse Local Files → bin
 
 2. Locate and copy:
-   - STDShader_dx6.dll
-   - STDShader_dx7.dll
+   - stdshader_dx6.dll
+   - stdshader_dx7.dll
 
 3. Paste these files into your GmodRTX's bin folder, replacing existing files
 
@@ -79,7 +80,7 @@ If you have Portal with RTX installed:
 2. Subscribe to NikNaks from the Steam Workshop
 3. Subscribe to FUCK'EM HALOS
 
-## Step 7: Launch from .Bat File
+## Step 7: Launch from .bat File
 
 1. Copy the launcher script to your GmodRTX root folder
 2. Double-click the launcher script to start the game
