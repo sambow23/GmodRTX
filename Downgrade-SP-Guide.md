@@ -13,7 +13,7 @@ Before starting, ensure you have the following:
    - [DXVK Remix](https://github.com/NVIDIAGameWorks/dxvk-remix)
    - [BlueAmulet's Patcher (apply_patch.py)](https://raw.githubusercontent.com/BlueAmulet/SourceRTXTweaks/main/applypatch.py)
    - [Launch Script](https://xenthio.github.io/stuff/launcher_workshop_fullscreen_new.bat)
-   - [RTX Configuration File](https://raw.githubusercontent.com/skurtyyskirts/GmodRTX/refs/heads/main/rtx.conf)
+   - [RTX Configuration File](https://raw.githubusercontent.com/skurtyyskirts/GmodRTX/refs/heads/main/rtx_downgraded_gmod.conf)
    - [Steam DepotDownloader](https://github.com/SteamRE/DepotDownloader)
 
 3. [Python](https://www.python.org/downloads/) installed on your system
@@ -47,7 +47,7 @@ Before starting, ensure you have the following:
 2. Copying the downgraded files to your GmodRTX Installation
     - In the same folder where DepotDownloader.exe is, go to `depots\4002\16681999`, you should see some GarrysMod files.
     - Copy everything inside the folder and paste them into your GmodRTX installation, replace everything.
-    - The game is now downgraded. 
+    - The game is now downgraded.   
     - > [!WARNING]  
     - > Multiplayer will not work for normal servers, but P2P/LAN with other people running with the same version works.
     
